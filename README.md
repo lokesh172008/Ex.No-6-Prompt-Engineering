@@ -12,5 +12,7 @@ Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
+output: 
+[LOKESH ACHARI PROMPT EX 6.pdf](https://github.com/user-attachments/files/28456426/LOKESH.ACHARI.PROMPT.EX.6.pdf)
 
 Result: 
